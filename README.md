@@ -7,6 +7,7 @@
 3. `npm i`
 4. `npx semantic-release-cli setup`
 5. Set `globalName` for the browser build in `scripts/build.js`
+6. `mv github .github`
 
 ## React
 
