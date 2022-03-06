@@ -1,4 +1,4 @@
-# @ribeirolabs/package-template
+# @ribeirolabs/PACKAGE_NAME
 
 ## Setup
 
@@ -8,6 +8,7 @@
 4. `npx semantic-release-cli setup`
 5. Set `globalName` for the browser build in `scripts/build.js`
 6. `mv github .github`
+7. Add `GH_TOKEN` on [https://github.com/ribeirolabs/PACKAGE_NAME/settings/secrets/actions](Package secrets)
 
 ## React
 
